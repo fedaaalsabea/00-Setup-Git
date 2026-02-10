@@ -2,8 +2,11 @@
 
 
 # $CHALLENGIFY_BEGIN
-def my_name_is():
+def my_name_is() -> str:
  
-    pass
+    return "fedaalsabea"
+
 
 # $CHALLENGIFY_END
+
+
