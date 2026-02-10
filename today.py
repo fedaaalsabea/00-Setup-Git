@@ -2,9 +2,12 @@
 
 
 # $CHALLENGIFY_BEGIN
-def my_name_is() -> str:
+def my_age_is() -> int:
  
-    return "fedaalsabea"
+    return 22
+
+
+
 
 
 # $CHALLENGIFY_END
